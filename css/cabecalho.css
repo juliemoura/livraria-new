@@ -1,0 +1,22 @@
+.cabecalho{
+
+    background: #b7d5e5;
+
+    width: 100%; /*largura da tela*/
+
+    box-sizing: border-box;
+
+    display: flex; /*organizar elementos dentro de contêiners de forma flexível conforme sua necessidade.*/
+    flex-direction: column; /* define como os itens flexíveis são colocados no contêiner flexível, definindo o eixo principal e a direção*/
+    align-items: center;
+    box-shadow: 10px 10px 10px #808080;
+
+    position: absolute;
+
+}
+
+.cabecalho-logo {
+    margin-bottom: 1rem;
+    size-adjust: 0.2rem;
+}
+

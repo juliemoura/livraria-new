@@ -65,7 +65,7 @@
 .filiais-icones{
     display: inline-block;
     margin-top: 3rem;
-    margin-left: 3rem;
+    margin-left: 3.9rem;
 }
 
 .filial-icon{
@@ -81,9 +81,10 @@
     font-size: 2rem;
 
     text-align: center;
-   
-    margin: 10rem 4rem 2rem 2rem;
 
+    margin-left: 2.3rem;
+    margin-top: 8rem;
+   
     color: #000000;
 
     border-bottom: 1px solid #F0F0F0;
@@ -142,6 +143,11 @@
     display: inline-block;
 
     padding: 18px 0 10px 46px;
+}
+
+.vantagens-lista{
+    
+
 }
 
 .vant-descricao{

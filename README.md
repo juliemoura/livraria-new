@@ -1,5 +1,7 @@
 # livraria-new
 Trovão e Baleias
 
-É uma livraria com sistema de aluguel de livros.
+Uma livraria com sistema de aluguel de livros.
+
 Layout responsivo para celulares e desktops.
+Link: https://juliemoura.github.io/livraria-new/
